@@ -5,10 +5,10 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔭 I’m currently working on: `The will to live.`
-- 🌱 I’m learning: `Linux Systems and Developer Operations.`
+-  I’m currently working on: `The will to live.`
+-  I’m learning: `Linux Systems and Developer Operations.`
 
 ---
 

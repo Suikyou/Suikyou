@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Suikyou</h1>
 <p align="center">
   <i>Mondaiji Season 2 when pls</i>
 </p>
@@ -7,9 +7,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: `Your current project or goal`
-- 🌱 I’m learning: `Technologies or concepts you're exploring`
-- 💬 Ask me about: `Topics you're confident in`
+- 🔭 I’m currently working on: `The will to live.`
+- 🌱 I’m learning: `Linux Systems and Developer Operations.`
 
 ---
 

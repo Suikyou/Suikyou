@@ -7,8 +7,8 @@
 
 ### About Me
 
--  I’m currently working on: `The will to live.`
--  I’m learning: `Linux Systems and Developer Operations.`
+-  I’m currently working on: `Hollow Knight Pantheon V.`
+-  I’m learning: `Hollow Knight Speedrunning.`
 
 ---
 

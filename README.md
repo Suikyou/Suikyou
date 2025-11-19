@@ -8,7 +8,7 @@
 ### About Me
 
 -  I’m currently working on: `Hollow Knight Pantheon V.`
--  I’m learning: `Hollow Knight Speedrunning.`
+-  I’m learning: `Gaben my goat, RELEASE THE STEAM MACHINE AND MY LIFE IS YOURS!.`
 
 ---
 
